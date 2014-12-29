@@ -1,6 +1,6 @@
 xbmc-addon-wilmaa
 =================
-##Fix for BeautifulSoup4 in Kodi Helix Windows##
+Fix for BeautifulSoup4 in Kodi Helix Windows
 
 Plays wilmaa live tv in xbmc
 
