@@ -18,7 +18,7 @@
 import xbmcgui, xbmcplugin
 import resources.lib.feedparser as feedparser
 import simplejson
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 
 plugin_handle = int(sys.argv[1])
 
